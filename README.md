@@ -1,54 +1,54 @@
-# 👨‍💻 Arun Yadav | Python & AI/ML Explorer  
-🌟 Learning. Building. Evolving.
+# 👋 Hi, I’m Arun Yadav
+
+> 🚀 **Medical-AI Developer** | Building AI tools for healthcare and education | Ex-NEET aspirant turned tech innovator
 
 ---
 
-## 🚀 About Me  
-Hey there! I’m **Arun**, a self-taught developer diving deep into **Python, AI/ML, and real-world projects**.  
-Currently grinding full-time (13–15 hrs/day) to build solid skills and earn real-world experience through **internships and freelance projects**.
+![Banner](https://via.placeholder.com/1000x200.png?text=Arun+Yadav+%7C+Medical-AI+Developer+%7C+#comeback)
 
-🧠 Aspiring to build tools that *actually* help people — like an AI healthcare assistant powered by LLMs.  
-💼 Long-term goal: Land a high-impact job. Short-term: **Freelance, Intern, Contribute, Build**.
+## 🔭 Current Projects
 
----
+- 🩺 **NEETPrepGPT** — AI assistant for NEET aspirants: web-scraped MCQs + GPT-4 Turbo via FastAPI.
+- 🤖 **Symptom2Specialist** *(Phase 2)* — BioBERT + FHIR-powered bot recommending specialists by symptoms.
+- 📊 **NEET Score Predictor** — Python tool predicting exam performance from mock test scores.
 
-## 🧰 Tech Stack  
-- 💻 Python, Git & GitHub  
-- 🧠 Learning: Artificial Inteligence, Machine Learning, LLMs, APIs, Automation  
-- 📚 Building: Projects from scratch, 30-day Python roadmap, real-world problems  
+## 🛠️ Skills & Technologies
 
----
-
-## 📌 Projects In Progress  
-- 🤖 **AI Health Advisor** – A medical assistant powered by LLMs (Coming Soon!)  
-- 🧪 **Python Projects** – Automations, games, APIs, and more from my daily coding sprints  
-
-> ⚡ I believe in "learning by doing" — every day I build, debug, improve, and repeat.
-
----
-
-## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neural-arun&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/BioBERT-0A0A0A?style=for-the-badge&logo=transformers&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deployment-AWS%20%7C%20Render?style=for-the-badge&logo=aws&logoColor=white" />
 </p>
 
+## 🌱 Learning Roadmap
+
+1. **Phase 1 (Jun–Aug 2025):** Python → NumPy/Pandas → Web Scraping → FastAPI → NEETPrepGPT  
+2. **Phase 2 (Sep–Nov 2025):** BioBERT → FHIR → Symptom2Specialist → Next.js frontend  
+3. **Phase 3 (Dec 2025+):** Custom Medical LLM → MedQA benchmark → Consulting & startups
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neural-arun&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neural-arun&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 📫 Connect with Me
+
+| Platform  | Link                                                                                  |
+|-----------|---------------------------------------------------------------------------------------|
+| 🔗 LinkedIn | [arun-yadav](https://www.linkedin.com/in/arun-yadav-768052368)                     |
+| 💬 Telegram | [@Neural_Arun](https://t.me/Neural_Arun)                                             |
+| 📧 Email    | arunyadav149413@gmail.com                                                            |
+| 🐦 Twitter  | [@YourHandle (coming soon)](https://twitter.com)                                     |
+
 ---
 
-## 🔗 Connect with Me  
-Let’s build something together or just talk tech ⚙️
+> I’m on a 6-month journey to build industry-grade Medical-AI tools. 🌟 Let’s collaborate!
 
-- 📩 [Telegram](https://t.me/Neural_Arun)  
-- 📸 [Instagram](https://instagram.com/neural.arun)  
-- 💼 [LinkedIn](https://linkedin.com/in/arun-yadav-768052368)  
-
-> Adding Twitter and Reddit soon 🛠️
-
----
-
-## 🏏 Bonus: A Cricket Buff Too  
-When I’m not coding, I’m watching or playing cricket — nothing like a good match to recharge! 🏏
-
----
-
-> 🔥 Always learning. Always building. Let’s connect if you're doing something exciting!
+<p align="center">Made with ❤️ & ☕ by Arun Yadav</p>
