@@ -45,7 +45,7 @@
 | 🔗 LinkedIn | [arun-yadav](https://www.linkedin.com/in/arun-yadav-768052368)                     |
 | 💬 Telegram | [@Neural_Arun](https://t.me/Neural_Arun)                                             |
 | 📧 Email    | arunyadav149413@gmail.com                                                            |
-| 🐦 Twitter  | [@YourHandle (coming soon)](https://twitter.com)                                     |
+| 🐦 Twitter  | [https://x.com/Neural_Arun]                                    |
 
 ---
 
