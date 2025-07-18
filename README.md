@@ -14,7 +14,7 @@ Every topic below is backed by real implementation, and each module has its own 
 ---
 
 ### 🧩 Module 1: Core Python & Dev Environment
-📦 Repo: [Module 1 – Python Core & Setup](#)  
+📦 Repo: [Module 1 – Python Core & Setup](https://github.com/neural-arun/meded-phase1-module1-python-core/tree/main)  
 🔧 Covers: OOP, Data Structures, Async IO, Decorators, Git/GitHub mastery, PEP-8, venv setup  
 🔗 Relevance: Foundation for all future NEET/AI tools  
 🛠️ Tools: Python, VSCode, Git CLI, flake8, black
