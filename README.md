@@ -1,54 +1,81 @@
-# 👋 Hi, I’m Arun Yadav
+# 👨‍⚕️ Arun Yadav | MedEd-AI Engineer
 
-> 🚀 **Medical-AI Developer** | Building AI tools for healthcare and education | Ex-NEET aspirant turned tech innovator
-
----
-
-![Banner](https://via.placeholder.com/1000x200.png?text=Arun+Yadav+%7C+Medical-AI+Developer+%7C+#comeback)
-
-## 🔭 Current Projects
-
-- 🩺 **NEETPrepGPT** — AI assistant for NEET aspirants: web-scraped MCQs + GPT-4 Turbo via FastAPI.
-- 🤖 **Symptom2Specialist** *(Phase 2)* — BioBERT + FHIR-powered bot recommending specialists by symptoms.
-- 📊 **NEET Score Predictor** — Python tool predicting exam performance from mock test scores.
-
-## 🛠️ Skills & Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/BioBERT-0A0A0A?style=for-the-badge&logo=transformers&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deployment-AWS%20%7C%20Render?style=for-the-badge&logo=aws&logoColor=white" />
-</p>
-
-## 🌱 Learning Roadmap
-
-1. **Phase 1 (Jun–Aug 2025):** Python → NumPy/Pandas → Web Scraping → FastAPI → NEETPrepGPT  
-2. **Phase 2 (Sep–Nov 2025):** BioBERT → FHIR → Symptom2Specialist → Next.js frontend  
-3. **Phase 3 (Dec 2025+):** Custom Medical LLM → MedQA benchmark → Consulting & startups
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neural-arun&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neural-arun&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 📫 Connect with Me
-
-| Platform  | Link                                                                                  |
-|-----------|---------------------------------------------------------------------------------------|
-| 🔗 LinkedIn | [arun-yadav](https://www.linkedin.com/in/arun-yadav-768052368)                     |
-| 💬 Telegram | [@Neural_Arun](https://t.me/Neural_Arun)                                             |
-| 📧 Email    | arunyadav149413@gmail.com                                                            |
-| 🐦 Twitter  | [https://x.com/Neural_Arun]                                    |
+🎯 Reinventing from NEET Aspirant → MedEd Innovator  
+📍 Focus: Building intelligent tools at the intersection of **Medicine × Education × AI**
 
 ---
 
-> I’m on a 6-month journey to build industry-grade Medical-AI tools. 🌟 Let’s collaborate!
+## 🔬 Phase 1: MedEd-AI Builder Foundation 🚀
+> A 10-week hands-on execution sprint to build **NEETPrepGPT** — an intelligent backend system for NEET MCQ generation, study automation, and MedEd applications.
 
-<p align="center">Made with ❤️ & ☕ by Arun Yadav</p>
+**Guiding Principle:** _"Learn by Doing. Build with Purpose."_  
+Every topic below is backed by real implementation, and each module has its own public repo — fully documented, clean, and production-aligned.
+
+---
+
+### 🧩 Module 1: Core Python & Dev Environment
+📦 Repo: [Module 1 – Python Core & Setup](#)  
+🔧 Covers: OOP, Data Structures, Async IO, Decorators, Git/GitHub mastery, PEP-8, venv setup  
+🔗 Relevance: Foundation for all future NEET/AI tools  
+🛠️ Tools: Python, VSCode, Git CLI, flake8, black
+
+---
+
+### ⚙️ Module 2: FastAPI – Building the API Core
+📦 Repo: [Module 2 – FastAPI Core](#)  
+🚀 Covers: FastAPI, Pydantic Models, Routers, Dependency Injection, API Docs, Testing  
+🔗 Relevance: Brain and backbone of NEETPrepGPT  
+🛠️ Tools: FastAPI, Uvicorn, Pydantic, pytest
+
+---
+
+### 🌐 Module 3: Web Scraping & Database Integration
+📦 Repo: [Module 3 – Data Acquisition Layer](#)  
+🕸️ Covers: `requests`, `BeautifulSoup4`, ethical scraping, SQLAlchemy ORM, SQLite DB  
+🔗 Relevance: Feeding raw NEET study material into the system  
+🛠️ Tools: SQLAlchemy, SQLite, requests, bs4, schema design
+
+---
+
+### 🧠 Module 4: OpenAI API & MCQ Generator Logic
+📦 Repo: [Module 4 – AI Brain & Prompt Engine](#)  
+🧠 Covers: GPT-3.5/4o API integration, Prompt Engineering, JSON outputs, MCQ generation logic  
+🔗 Relevance: Powers the AI brain of NEETPrepGPT  
+🛠️ Tools: OpenAI API, dotenv, Typer, Pydantic validation
+
+---
+
+### 🤖 Module 5: Telegram Bot, Dashboards & Monetization Readiness
+📦 Repo: [Module 5 – Interfaces & Deployment](#)  
+💬 Covers: Telegram Bot (python-telegram-bot), FastAPI webhooks, Streamlit/Gradio dashboards, logging, analytics, deployment planning  
+🔗 Relevance: End-user access & real-world delivery  
+🛠️ Tools: python-telegram-bot, FastAPI, Streamlit, Vercel/Render planning
+
+---
+
+## 💼 Freelance Readiness
+- Each module aligned with high-demand freelancing skills (APIs, AI tools, automation bots)
+- GitHub repos designed for reusability and portfolio presentation
+- Goal is to create - NEET MCQ generator, bots, scrapers etc.
+
+---
+
+## 📍 Current Status: `EXECUTION MODE: ON`
+🗓️ Timeline: July–September 2025  
+📁 Repos: Coming online one by one — daily commits, weekly demos  
+🧠 Goal: Master backend + AI + automation → build full-stack MedEd-AI tools  
+
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-yadav-768052368)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Neural_Arun)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Neural_Arun)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918881109193)
+
+---
+
+> _“Turning personal setbacks into public breakthroughs. One repo at a time.”_  
+> — Arun Yadav, Future MedEd Builder
