@@ -22,7 +22,7 @@ Every topic below is backed by real implementation, and each module has its own 
 ---
 
 ### ⚙️ Module 2: FastAPI – Building the API Core
-📦 Repo: [Module 2 – FastAPI Core](#)  
+📦 Repo: [Module 2 – FastAPI Core](https://github.com/neural-arun/meded-phase1-module2-fastapi-backend)  
 🚀 Covers: FastAPI, Pydantic Models, Routers, Dependency Injection, API Docs, Testing  
 🔗 Relevance: Brain and backbone of NEETPrepGPT  
 🛠️ Tools: FastAPI, Uvicorn, Pydantic, pytest
