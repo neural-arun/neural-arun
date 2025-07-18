@@ -30,7 +30,7 @@ Every topic below is backed by real implementation, and each module has its own 
 ---
 
 ### 🌐 Module 3: Web Scraping & Database Integration
-📦 Repo: [Module 3 – Data Acquisition Layer](#)  
+📦 Repo: [Module 3 – Data Acquisition Layer](https://github.com/neural-arun/meded-phase1-module3-data-layer)  
 🕸️ Covers: `requests`, `BeautifulSoup4`, ethical scraping, SQLAlchemy ORM, SQLite DB  
 🔗 Relevance: Feeding raw NEET study material into the system  
 🛠️ Tools: SQLAlchemy, SQLite, requests, bs4, schema design
@@ -38,7 +38,7 @@ Every topic below is backed by real implementation, and each module has its own 
 ---
 
 ### 🧠 Module 4: OpenAI API & MCQ Generator Logic
-📦 Repo: [Module 4 – AI Brain & Prompt Engine](#)  
+📦 Repo: [Module 4 – AI Brain & Prompt Engine](https://github.com/neural-arun/meded-phase1-module4-ai-engine)  
 🧠 Covers: GPT-3.5/4o API integration, Prompt Engineering, JSON outputs, MCQ generation logic  
 🔗 Relevance: Powers the AI brain of NEETPrepGPT  
 🛠️ Tools: OpenAI API, dotenv, Typer, Pydantic validation
@@ -46,7 +46,7 @@ Every topic below is backed by real implementation, and each module has its own 
 ---
 
 ### 🤖 Module 5: Telegram Bot, Dashboards & Monetization Readiness
-📦 Repo: [Module 5 – Interfaces & Deployment](#)  
+📦 Repo: [Module 5 – Interfaces & Deployment](https://github.com/neural-arun/meded-phase1-module5-interfaces-deployment)  
 💬 Covers: Telegram Bot (python-telegram-bot), FastAPI webhooks, Streamlit/Gradio dashboards, logging, analytics, deployment planning  
 🔗 Relevance: End-user access & real-world delivery  
 🛠️ Tools: python-telegram-bot, FastAPI, Streamlit, Vercel/Render planning
