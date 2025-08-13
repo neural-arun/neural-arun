@@ -6,7 +6,7 @@
 ---
 
 ## 🔬 Phase 1: MedEd-AI Builder Foundation 🚀
-> A 10-week hands-on execution sprint to build **NEETPrepGPT** — an intelligent backend system for NEET MCQ generation, study automation, and MedEd applications.
+> A 20-week hands-on execution sprint to build **NEETPrepGPT** — an intelligent backend system for NEET MCQ generation, study automation, and MedEd applications.
 
 **Guiding Principle:** _"Learn by Doing. Build with Purpose."_  
 Every topic below is backed by real implementation, and each module has its own public repo — fully documented, clean, and production-aligned.
@@ -22,7 +22,7 @@ Every topic below is backed by real implementation, and each module has its own 
 ---
 
 ### ⚙️ Module 2: FastAPI – Building the API Core
-📦 Repo: [Module 2 – FastAPI Core](https://github.com/neural-arun/meded-phase1-module2-fastapi-backend)  
+📦 Repo: [Module 2 – FastAPI Core]()  
 🚀 Covers: FastAPI, Pydantic Models, Routers, Dependency Injection, API Docs, Testing  
 🔗 Relevance: Brain and backbone of NEETPrepGPT  
 🛠️ Tools: FastAPI, Uvicorn, Pydantic, pytest
@@ -30,7 +30,7 @@ Every topic below is backed by real implementation, and each module has its own 
 ---
 
 ### 🌐 Module 3: Web Scraping & Database Integration
-📦 Repo: [Module 3 – Data Acquisition Layer](https://github.com/neural-arun/meded-phase1-module3-data-layer)  
+📦 Repo: [Module 3 – Data Acquisition Layer]()  
 🕸️ Covers: `requests`, `BeautifulSoup4`, ethical scraping, SQLAlchemy ORM, SQLite DB  
 🔗 Relevance: Feeding raw NEET study material into the system  
 🛠️ Tools: SQLAlchemy, SQLite, requests, bs4, schema design
@@ -38,7 +38,7 @@ Every topic below is backed by real implementation, and each module has its own 
 ---
 
 ### 🧠 Module 4: OpenAI API & MCQ Generator Logic
-📦 Repo: [Module 4 – AI Brain & Prompt Engine](https://github.com/neural-arun/meded-phase1-module4-ai-engine)  
+📦 Repo: [Module 4 – AI Brain & Prompt Engine]()  
 🧠 Covers: GPT-3.5/4o API integration, Prompt Engineering, JSON outputs, MCQ generation logic  
 🔗 Relevance: Powers the AI brain of NEETPrepGPT  
 🛠️ Tools: OpenAI API, dotenv, Typer, Pydantic validation
@@ -46,7 +46,7 @@ Every topic below is backed by real implementation, and each module has its own 
 ---
 
 ### 🤖 Module 5: Telegram Bot, Dashboards & Monetization Readiness
-📦 Repo: [Module 5 – Interfaces & Deployment](https://github.com/neural-arun/meded-phase1-module5-interfaces-deployment)  
+📦 Repo: [Module 5 – Interfaces & Deployment]()  
 💬 Covers: Telegram Bot (python-telegram-bot), FastAPI webhooks, Streamlit/Gradio dashboards, logging, analytics, deployment planning  
 🔗 Relevance: End-user access & real-world delivery  
 🛠️ Tools: python-telegram-bot, FastAPI, Streamlit, Vercel/Render planning
