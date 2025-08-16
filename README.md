@@ -1,4 +1,4 @@
-# 👨‍⚕️ Arun Yadav | MedEd-AI Engineer
+# 👨‍⚕️ Arun Yadav | AI for Education & Healthcare | MedEd-AI Engineer |
 
 🎯 Reinventing from NEET Aspirant → MedEd Innovator  
 📍 Focus: Building intelligent tools at the intersection of **Medicine × Education × AI**
@@ -54,14 +54,14 @@ Every topic below is backed by real implementation, and each module has its own 
 ---
 
 ## 💼 Freelance Readiness
-- Each module aligned with high-demand freelancing skills (APIs, AI tools, automation bots)
+- Each module aligned with freelancing skills (APIs, AI tools, automation bots)
 - GitHub repos designed for reusability and portfolio presentation
 - Goal is to create - NEET MCQ generator, bots, scrapers etc.
 
 ---
 
 ## 📍 Current Status: `EXECUTION MODE: ON`
-🗓️ Timeline: July–September 2025  
+🗓️ Timeline: July–november 2025  
 📁 Repos: Coming online one by one — daily commits, weekly demos  
 🧠 Goal: Master backend + AI + automation → build full-stack MedEd-AI tools  
 
