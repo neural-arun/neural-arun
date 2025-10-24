@@ -14,7 +14,7 @@ Every topic below is backed by real implementation, and each module has its own 
 ---
 
 ### 🧩 Module 1: Core Python & Dev Environment
-📦 Repo: [Module 1 – Python Core & Setup](https://github.com/neural-arun/module1)  
+
 🔧 Covers: OOP, Data Structures, Async IO, Decorators, Git/GitHub mastery, PEP-8, venv setup  
 🔗 Relevance: Foundation for all future NEET/AI tools  
 🛠️ Tools: Python, VSCode, Git CLI, flake8, black
@@ -22,7 +22,7 @@ Every topic below is backed by real implementation, and each module has its own 
 ---
 
 ### ⚙️ Module 2: FastAPI – Building the API Core
-📦 Repo: [Module 2 – FastAPI Core]()  
+
 🚀 Covers: FastAPI, Pydantic Models, Routers, Dependency Injection, API Docs, Testing  
 🔗 Relevance: Brain and backbone of NEETPrepGPT  
 🛠️ Tools: FastAPI, Uvicorn, Pydantic, pytest
@@ -30,7 +30,7 @@ Every topic below is backed by real implementation, and each module has its own 
 ---
 
 ### 🌐 Module 3: Web Scraping & Database Integration
-📦 Repo: [Module 3 – Data Acquisition Layer]()  
+
 🕸️ Covers: `requests`, `BeautifulSoup4`, ethical scraping, SQLAlchemy ORM, SQLite DB  
 🔗 Relevance: Feeding raw NEET study material into the system  
 🛠️ Tools: SQLAlchemy, SQLite, requests, bs4, schema design
@@ -38,7 +38,7 @@ Every topic below is backed by real implementation, and each module has its own 
 ---
 
 ### 🧠 Module 4: OpenAI API & MCQ Generator Logic
-📦 Repo: [Module 4 – AI Brain & Prompt Engine]()  
+
 🧠 Covers: GPT-3.5/4o API integration, Prompt Engineering, JSON outputs, MCQ generation logic  
 🔗 Relevance: Powers the AI brain of NEETPrepGPT  
 🛠️ Tools: OpenAI API, dotenv, Typer, Pydantic validation
@@ -46,7 +46,7 @@ Every topic below is backed by real implementation, and each module has its own 
 ---
 
 ### 🤖 Module 5: Telegram Bot, Dashboards & Monetization Readiness
-📦 Repo: [Module 5 – Interfaces & Deployment]()  
+
 💬 Covers: Telegram Bot (python-telegram-bot), FastAPI webhooks, Streamlit/Gradio dashboards, logging, analytics, deployment planning  
 🔗 Relevance: End-user access & real-world delivery  
 🛠️ Tools: python-telegram-bot, FastAPI, Streamlit, Vercel/Render planning
@@ -61,7 +61,7 @@ Every topic below is backed by real implementation, and each module has its own 
 ---
 
 ## 📍 Current Status: `EXECUTION MODE: ON`
-🗓️ Timeline: July–november 2025  
+
 📁 Repos: Coming online one by one — daily commits, weekly demos  
 🧠 Goal: Master backend + AI + automation → build full-stack MedEd-AI tools  
 
