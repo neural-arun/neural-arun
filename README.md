@@ -46,13 +46,17 @@ This is not a template. It is a production system — and it is the best demonst
 
 ---
 
-### Other Projects
+### Projects
 
 | Project | What it does |
 |---|---|
-| **Legal RAG System** | Domain-aware retrieval for Indian legal documents with citation-grounded responses |
-| **Real Estate Scraper Suite** | Async browser + HTTP extraction for Cloudflare-protected workflows |
-| **Personal AI Agent** | FastAPI-based agent with tool-calling, memory, and model fallback handling |
+| [**ArunCore**](https://github.com/neural-arun/ArunCore) | Production AI digital twin — hybrid RAG, conversational memory, lead capture. Live at aruncore.vercel.app |
+| [**Legal RAG System**](https://github.com/neural-arun/legal_RAG_system) | Domain-aware retrieval pipeline for Indian legal documents with citation-grounded responses |
+| [**Personal AI Agent**](https://github.com/neural-arun/personal_ai_agent) | FastAPI-based conversational agent with tool-calling, memory, and model fallback handling |
+| [**Agentic AI Projects**](https://github.com/neural-arun/Agentic_AI_Projects) | Collection of agent workflows built with LangGraph, Langchain, crewAI, Autogen, MCP |
+| [**Real Estate Scraper**](https://github.com/neural-arun/real_state_listing_scraper) | Async browser + HTTP extraction for people looking for real estate properties |
+| [**Web Wizard**](https://github.com/neural-arun/web_wizard) | Web automation learning and extraction toolkit |
+| [**Result Anomaly**](https://github.com/neural-arun/result_anomaly) | Anomaly detection system for result data analysis |
 
 ---
 
