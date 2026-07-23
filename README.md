@@ -1,84 +1,46 @@
-![ArunCore Demo](Arun_core_.gif)
+# Hi, I'm Arun Yadav 👋
 
-## Arun Yadav
-### Freelance AI Systems Engineer — Healthcare & Medical Education
-
-I build AI systems that work under real constraints, not just in demos.
-
-My focus is healthcare and medical education — two domains I understand from the inside.
-I spent years preparing for NEET. That experience taught me exactly where students get stuck,
-where information is buried, and where hours are wasted. Now I build tools that fix that.
+**AI Systems Engineer | Healthcare, Education & Document Intelligence**  
+*Building production AI systems that eliminate manual work, accelerate learning, and unlock hidden value from complex data.*
 
 ---
 
-### 🤖 Talk to My AI Before Reading My Resume
+## ⚡ What I Deliver (Value & Business Outcomes)
 
-> **[aruncore.vercel.app](https://aruncore.vercel.app)**
+### 🩺 Healthcare Workflow & Clinical Automation
+* **Reduces Doctor Administrative Overhead**: Automates patient task delegation, clinical documentation, and routine follow-up tracking so providers can focus on care.
+* **Clinical Decision Support**: Delivers real-time, evidence-based AI assistance to help healthcare teams navigate complex clinical protocols faster.
 
-Instead of reading a static resume, ask my AI directly:
-- *"What has Arun built?"*
-- *"Is Arun the right fit for my project?"*
-- *"What is his experience with RAG systems?"*
+### 📚 Competitive Education Intelligence
+* **Accelerates Student Learning & Retention**: Builds personalized AI tutors that guide candidate preparation for high-stakes medical & competitive exams.
+* **Automated Knowledge Synthesis**: Converts hours of lecture videos, YouTube content, and medical textbooks into structured, exam-ready study notes automatically.
 
-Built with hybrid retrieval, conversational memory, and lead capture.
-This is not a template. It is a production system — and it is the best demonstration of what I build.
+### 📄 Zero-Hallucination Document Intelligence (RAG)
+* **Instant Answers from 100k+ Page Libraries**: Enables instant, verified question-answering across dense legal, regulatory, and technical documentation.
+* **Autonomous Deep Research**: Replaces manual literature reviews with AI research pipelines that synthesize complex multi-source reports with 100% cited accuracy.
 
----
+### 🤖 Autonomous Agents & MCP Infrastructure
+* **Multi-Step Process Automation**: Deploys autonomous AI agents that handle multi-step research, web navigation, and external tool execution without manual intervention.
+* **Standardized AI Tool Integrations**: Builds secure Model Context Protocol (MCP) servers that connect LLMs directly to private databases and internal tools.
 
-### What I Build
-
-- **RAG Pipelines** — accurate retrieval from large medical document sets, textbooks, PYQs
-- **Healthcare AI Tools** — clinical workflow automation, documentation assistants
-- **Medical Education Systems** — AI tutors, MCQ generators, personalized learning tools
-- **Document Intelligence** — any domain with heavy PDF and text load
-
----
-
-### Current Stack
-
-**AI & Retrieval:** LangChain · LangGraph · ChromaDB · Pinecone · HuggingFace · LLM Evaluation
-
-**Backend:** Python · FastAPI · AsyncIO · Pydantic · SQLAlchemy
-
-**Automation:** Playwright · Aiohttp · Structured Data Extraction
-
-**Deployment:** Render · Vercel · HuggingFace Spaces · Git
+### ⚡ Data Intelligence & High-Volume Automation
+* **Enterprise Web Data Extraction**: Converts messy, unstructured web data and listings into clean, structured, real-time datasets.
+* **Automated Quality & Anomaly Auditing**: Detects irregularities and data anomalies across large datasets automatically to prevent costly reporting errors.
 
 ---
 
-### Projects
+## 💡 Why Work With Me?
 
-| Project | What it does |
-|---|---|
-| [**ArunCore**](https://github.com/neural-arun/ArunCore) | Production AI digital twin — hybrid RAG, conversational memory, lead capture. Live at aruncore.vercel.app |
-| [**Legal RAG System**](https://github.com/neural-arun/legal_RAG_system) | Domain-aware retrieval pipeline for Indian legal documents with citation-grounded responses |
-| [**Personal AI Agent**](https://github.com/neural-arun/personal_ai_agent) | FastAPI-based conversational agent with tool-calling, memory, and model fallback handling |
-| [**Agentic AI Projects**](https://github.com/neural-arun/Agentic_AI_Projects) | Collection of agent workflows built with LangGraph, Langchain, crewAI, Autogen, MCP |
-| [**Real Estate Scraper**](https://github.com/neural-arun/real_state_listing_scraper) | Async browser + HTTP extraction for people looking for real estate properties |
-| [**Web Wizard**](https://github.com/neural-arun/web_wizard) | Web automation learning and extraction toolkit |
-| [**Result Anomaly**](https://github.com/neural-arun/result_anomaly) | Anomaly detection system for result data analysis |
+* **Domain Insight**: Having spent years preparing inside the medical education system, I understand student and clinical friction points from first-hand experience.
+* **100% Grounded Accuracy**: Specialized in building strict retrieval systems (RAG) where data integrity matters most—zero dangerous guessing or hallucinations.
+* **Production-Ready Systems**: I build clean, scalable software designed to run reliably in production environments, not just proof-of-concept demos.
 
 ---
 
-### How I Work
+## 🤝 Let's Build Something Great
 
-- Truth over guessing — responses stay grounded in real data
-- Reliability over hype — systems that work repeatedly under messy real-world conditions
-- Build-first — real understanding comes from shipping, debugging, and fixing live systems
+I am open for **freelance projects, technical consulting, and custom AI system builds** in Healthcare, Education, Document Intelligence, and Web Automation.
 
----
-
-### Open For
-
-Freelance projects in healthcare, medical education, and document-heavy AI systems.
-
-If you are building in this space or need a reliable AI system built on your data — reach out.
-
----
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neuralarun/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Neural_Arun)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Neural_Arun)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918881109193)
+📬 **Reach out directly**:
+* 💼 **LinkedIn**: [linkedin.com/in/neuralarun](https://www.linkedin.com/in/arun-yadav-768052368)
+* 📸 **Instagram**: [@neural.arun](https://www.instagram.com/neural.arun)
