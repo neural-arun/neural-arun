@@ -1,17 +1,20 @@
 # Hi, I'm Arun Yadav 👋
 
-**AI Systems Engineer | Healthcare, Education & Document Intelligence**  
-*Building production AI systems that eliminate manual work, accelerate learning, and unlock hidden value from complex data.*
+> 💡 **What I Do (At a Glance):**  
+> I am an **AI Systems Engineer** specializing in **Healthcare & Medical Education**. I help founders, clinics, and EdTech platforms build:
+> 1. 📄 **Zero-Hallucination RAG Engines** — Search 100k+ pages of legal/medical documents with 100% verified accuracy.
+> 2. 🤖 **Autonomous AI Agents & MCP** — Automate multi-step web research, data extraction, and workflow tasks.
+> 3. 🩺 **Clinical & EdTech Assistants** — Build smart exam prep tools (NEET) and patient workflow automation.
 
 ---
 
-## ⚡ What I Deliver (Value & Business Outcomes)
+## ⚡ Value & Business Outcomes
 
 ### 🩺 Healthcare Workflow & Clinical Automation
 * **Reduces Doctor Administrative Overhead**: Automates patient task delegation, clinical documentation, and routine follow-up tracking so providers can focus on care.
 * **Clinical Decision Support**: Delivers real-time, evidence-based AI assistance to help healthcare teams navigate complex clinical protocols faster.
 
-### 📚 Competitive Education Intelligence
+### 📚 Medical & Competitive Education Intelligence
 * **Accelerates Student Learning & Retention**: Builds personalized AI tutors that guide candidate preparation for high-stakes medical & competitive exams.
 * **Automated Knowledge Synthesis**: Converts hours of lecture videos, YouTube content, and medical textbooks into structured, exam-ready study notes automatically.
 
@@ -42,5 +45,5 @@
 I am open for **freelance projects, technical consulting, and custom AI system builds** in Healthcare, Education, Document Intelligence, and Web Automation.
 
 📬 **Reach out directly**:
-* 💼 **LinkedIn**: [linkedin.com/in/neuralarun](https://www.linkedin.com/in/arun-yadav-768052368)
+* 💼 **LinkedIn**: [linkedin.com/in/arun-yadav-768052368](https://www.linkedin.com/in/arun-yadav-768052368)
 * 📸 **Instagram**: [@neural.arun](https://www.instagram.com/neural.arun)
