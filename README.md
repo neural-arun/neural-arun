@@ -1,6 +1,6 @@
 # Hi I'm Arun Yadav 👋
 
-## 💡 What I Do (At a Glance)
+## 💡 What I Do
 
 I am an AI Systems Engineer specializing in Healthcare and Medical Education. I help founders, clinics and EdTech platforms build:
 
