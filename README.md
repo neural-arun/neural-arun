@@ -1,10 +1,10 @@
 # Hi, I'm Arun Yadav 👋
 
-### AI Systems Engineer / Builder
+### AI Systems Builder
 
-I build **AI systems for real-world problems**, mainly in **healthcare and education**.
+I build **AI systems for real world problems**, mainly in **healthcare and education**.
 
-I like taking a real problem, understanding how the work is done, and then figuring out where AI, software, and automation can actually help.
+I like taking a real problem, understanding how the work is done, and then figuring out where AI, software, and automation can actually help to create measurable value.
 
 ## 🧠 What I Build
 
@@ -18,15 +18,15 @@ I like taking a real problem, understanding how the work is done, and then figur
 
 ## 🛠️ What I Work With
 
-`Python` · `LLMs` · `RAG` · `AI Agents` · `APIs` · `Databases` · `Docker` · `Git` · `Local LLMs`
+`Python` · `LLMs` · `FastAPI` · `SQL` · `RAG` · `AI Agents` · `APIs` · `Databases` · `Docker`
 
 ## 🧪 What I'm Exploring
 
-Agentic AI, RAG, AI automation, local models, AI infrastructure, and reliable AI systems.
+Agentic AI, RAG, AI automation, AI infrastructure, and reliable AI systems.
 
-I don't start with **"Which AI model should I use?"**
+I don't start with **"Which AI model should I use? OR which framework should i use?"**
 
-I start with **"What problem are we trying to solve?"**
+I start with **"What problem are we trying to solve? How are we going to evaluate the solution"**
 
 Sometimes AI is the answer.
 
